@@ -1,7 +1,6 @@
 ### Hi there 👋
-### Ask me about anything 😉
-### 🔭 I’m currently working on Uni Projects
-### ⚡ Fun fact: DM
+### 🔭 I’m an AIESECer
+### ⚡ Fun fact: I'm very curious to learn
 
 ![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
