@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Ask me about anything 😉
+### 🔭 I’m currently working on Uni Projects
+### ⚡ Fun fact: DM
+
+![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 <!--
 **devindi-177/devindi-177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
